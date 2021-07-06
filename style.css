@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 60px;
+    
+}
+.text-color{
+    color: skyblue;
+}
+section{
+    display:flex;
+    margin: 100px;
+}
+.set-width{
+    width:50%;
+    padding-left: 80px;
+}
+.set-width img{
+    width:60%
+}
+.set-width img{
+    padding-left: 150px;
+}
+.link-button{
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(14, 176, 240),white);
+    text-decoration: none;
+    background-color: skyblue;
+    padding;:20px,60px
+    
+    
+}
